@@ -50,5 +50,5 @@ individual_2    KIR2DS1|KIR2DS3|KIR2DS5|KIR2DL5|KIR3DS1
 See [the MMSEQ pages](https://github.com/eturro/mmseq#estimating-expression-levels) for a full description of the output.
 
 ### Step 3 (optional): read in KIR expression estimates into an R table 
-ToDo
+
 
